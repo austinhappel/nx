@@ -87,6 +87,15 @@
           "alwaysAddToPackageJson": false
         }
       }
+    },
+    "13.8.5": {
+      "version": "13.8.5-beta.0",
+      "packages": {
+        "detox": {
+          "version": "19.5.1",
+          "alwaysAddToPackageJson": false
+        }
+      }
     }
   }
 }
